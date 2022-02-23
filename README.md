@@ -1,45 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
-
-@pippopil
-netology-code
-/
-aqa-homeworks
-Public
-Code
-Pull requests
-Actions
-Wiki
-Security
-Insights
-aqa-homeworks/basics/
-Latest commit
-@ArRomanov
-ArRomanov Add github actions example (#21)
-1a999d2
-on 24 Dec 2021
-Git stats
-History
-Files
-Type
-Name
-Latest commit message
-Commit time
-. .
-pic
-upd(basics): testng, junit4, junit5
-2 years ago
-README.md
-Add github actions example (#21)
-2 months ago
-gradle.yml
-Add github actions example (#21)
-2 months ago
-README.md
 Домашнее задание к занятию «1.1. Основы автоматизации»
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте netology.ru.
 
@@ -201,17 +159,3 @@ useJUnitPlatform()
 
 
 7. Создайте в проекте Issue, к которому приложите отчёты (в личном кабинете вам нужно будет отправить ссылку на то issue, что вы создали - для демонстрационного проекта это: https://github.com/netology-code/aqa-hw-sample/issues/1)
-
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
