@@ -40,7 +40,7 @@ import static org.junit.Assert.assertEquals;
         public void showEqualBoundary() {
             int purchaseAmount = 1000;
             int actualResult = service.remain(purchaseAmount);
-            int expectedResult = 1000;
+            int expectedResult = 0;
             assertEquals(expectedResult, actualResult);
 
         }
