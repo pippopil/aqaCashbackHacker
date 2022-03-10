@@ -40,7 +40,7 @@ public class CashbackHackServiceTest {
     public void showEqualBoundary() {
         int purchaseAmount = 1000;
         int actualResult = service.remain(purchaseAmount);
-        int expectedResult = 0;
+        int expectedResult = 1000;
         assertEquals(actualResult, expectedResult);
 
     }
