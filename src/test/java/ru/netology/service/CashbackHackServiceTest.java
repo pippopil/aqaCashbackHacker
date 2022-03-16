@@ -1,8 +1,8 @@
 package ru.netology.service;
 
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.testng.AssertJUnit.assertEquals;
 
 public class CashbackHackServiceTest {
 
@@ -40,7 +40,7 @@ public class CashbackHackServiceTest {
     public void showEqualBoundary() {
         int purchaseAmount = 1000;
         int actualResult = service.remain(purchaseAmount);
-        int expectedResult = 1000;
+        int expectedResult = 0;
         assertEquals(actualResult, expectedResult);
 
     }
